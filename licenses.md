@@ -3564,6 +3564,11 @@ limitations under the License."
 * early/645.script.js
 * early/646.script.js
 * early/647.script.js
+* early/648.script.js
+* early/649.script.js
+* early/650.script.js
+* early/651.script.js
+* early/652.script.js
 
 ## UglifyJS2
 
