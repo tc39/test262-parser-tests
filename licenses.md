@@ -2600,6 +2600,13 @@ limitations under the License."
 * pass/1962.script.js
 * pass/1963.script.js
 * pass/1964.script.js
+* pass/1965.script.js
+* pass/1966.script.js
+* pass/1967.script.js
+* pass/1968.script.js
+* pass/1969.script.js
+* pass/1970.script.js
+* pass/1971.script.js
 * fail/543.script.js
 * fail/544.script.js
 * fail/545.script.js
