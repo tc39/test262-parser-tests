@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "name": "test262-parser-tests",
+  "version": "1.0.0",
+  "description": "tests designed for ECMA-262 parsers",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "normalize-parser-test": "1.0.0",
+    "shift-codegen": "5.0.2",
+    "shift-parser": "5.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tc39/test262-parser-tests.git"
+  },
+  "keywords": [
+    "test262",
+    "parser",
+    "tests"
+  ],
+  "author": "",
+  "license": "SEE LICENSE IN licenses.md",
+  "bugs": {
+    "url": "https://github.com/tc39/test262-parser-tests/issues"
+  },
+  "homepage": "https://github.com/tc39/test262-parser-tests#readme"
+}
