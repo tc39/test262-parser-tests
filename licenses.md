@@ -2622,6 +2622,7 @@ limitations under the License."
 * pass/1984.script.js
 * pass/1985.script.js
 * pass/1986.script.js
+* pass/1987.module.js
 * fail/543.script.js
 * fail/544.script.js
 * fail/545.script.js
@@ -3569,6 +3570,11 @@ limitations under the License."
 * early/650.script.js
 * early/651.script.js
 * early/652.script.js
+* early/653.module.js
+* early/654.module.js
+* early/655.module.js
+* early/656.module.js
+* early/657.module.js
 
 ## UglifyJS2
 
