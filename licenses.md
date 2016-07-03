@@ -2619,6 +2619,7 @@ limitations under the License."
 * pass/1981.script.js
 * pass/1982.script.js
 * pass/1983.script.js
+* pass/1984.script.js
 * fail/543.script.js
 * fail/544.script.js
 * fail/545.script.js
