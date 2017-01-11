@@ -1,9 +1,15 @@
 {
-  "private": true,
   "name": "test262-parser-tests",
-  "version": "1.0.0",
-  "description": "tests designed for ECMA-262 parsers",
+  "version": "0.0.1",
+  "description": "Test cases for ECMAScript parsers",
   "main": "index.js",
+  "files": [
+    "early/",
+    "fail/",
+    "pass/",
+    "pass-explicit/",
+    "licenses.md"
+  ],
   "dependencies": {},
   "devDependencies": {
     "normalize-parser-test": "1.0.0",
@@ -19,8 +25,9 @@
   },
   "keywords": [
     "test262",
+    "ecmascript",
     "parser",
-    "tests"
+    "test"
   ],
   "author": "",
   "license": "SEE LICENSE IN licenses.md",
