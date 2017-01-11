@@ -2,7 +2,6 @@
   "name": "test262-parser-tests",
   "version": "0.0.1",
   "description": "Test cases for ECMAScript parsers",
-  "main": "index.js",
   "files": [
     "early/",
     "fail/",
@@ -12,9 +11,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "normalize-parser-test": "1.0.0",
-    "shift-codegen": "5.0.2",
-    "shift-parser": "5.0.1"
+    "normalize-parser-test": "1.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
