@@ -9,6 +9,10 @@
     "pass-explicit/",
     "licenses.md"
   ],
+  "dependencies": {},
+  "devDependencies": {
+    "normalize-parser-test": "1.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,11 +21,13 @@
     "url": "git+https://github.com/tc39/test262-parser-tests.git"
   },
   "keywords": [
+    "test262",
     "ecmascript",
     "parser",
     "test"
   ],
   "author": "",
+  "license": "SEE LICENSE IN licenses.md",
   "bugs": {
     "url": "https://github.com/tc39/test262-parser-tests/issues"
   },
