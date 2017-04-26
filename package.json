@@ -11,7 +11,9 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "normalize-parser-test": "1.0.0"
+    "normalize-parser-test": "1.0.0",
+    "shift-codegen": "^5.0.3",
+    "shift-parser": "^5.0.6"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
