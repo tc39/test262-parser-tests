@@ -1,3 +1,28 @@
+## Direct contributions
+
+The following tests were directly contributed to this project, and are licensed under the Apache license, as follows:
+
+"Copyright 2018 by various contributors (see AUTHORS)
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License."
+
+* early/2dae582489877ee5.js
+* early/34aa7f65abf79bc9.js
+* early/4286a88aed2001ee.js
+* early/84ef3bbaa772075f.js
+* early/987442878ab414e7.js
+* early/f1de9fc3ec4637cc.js
+
 ## Acorn
 
 The following tests are from the [Acorn](https://github.com/ternjs/acorn/) project, and are licensed under the MIT license, as follows:
@@ -24,6 +49,7 @@ THE SOFTWARE."
 
 * early/00b5935e92cb70cf.js
 * early/0448fa12dcf82187.js
+* early/050a006ae573e260.js
 * early/0525ca9f66f3a790.js
 * early/08b527a4146318e1.js
 * early/0b83079b62219d30.js
@@ -41,6 +67,7 @@ THE SOFTWARE."
 * early/277ec371718b3aa0.js
 * early/2851e5fd6b1faaa2.js
 * early/2a53f86603b801fc.js
+* early/2c0f785914da9d0b.js
 * early/2d085d7876806d98.js
 * early/3190762e2e329b66.js
 * early/33aec60ac4f4c6b9.js
@@ -55,11 +82,13 @@ THE SOFTWARE."
 * early/53a86ad112cc6c26.js
 * early/540fe548c19b2197.js
 * early/5490739ebf844cf8.js
+* early/574ea84fc61bdc31.js
 * early/57ddf6956d63bc7e.js
 * early/57f4e4685e795dd4.js
 * early/6473f07239ed08ef.js
 * early/69c74d0785375c3c.js
 * early/6b278752ecdf8586.js
+* early/6c4fe38464c16309.js
 * early/6dd17972eccf6550.js
 * early/6df27f99d312758c.js
 * early/7134fe6667b4b228.js
@@ -73,6 +102,7 @@ THE SOFTWARE."
 * early/82c93f9933c9710a.js
 * early/845e933d626fb6d0.js
 * early/84a6ea824cac8e3b.js
+* early/8643da76fe7e95c7.js
 * early/87946387ad39dde7.js
 * early/8d2870226258eaea.js
 * early/8d7627d8f8cc16c8.js
@@ -107,6 +137,7 @@ THE SOFTWARE."
 * early/de9d9a6cd61407f5.js
 * early/df5916fa5c0c159e.js
 * early/e0bcfb63cbe11c82.js
+* early/e0c3d30b6fe96812.js
 * early/e251aff584fd427f.js
 * early/e256ee8e7aff6957.js
 * early/e25b19185b3988dc.js
@@ -327,7 +358,6 @@ THE SOFTWARE."
 * pass/02cf1a37af2403fe.js
 * pass/040001f3b0eb3bde.js
 * pass/0453974dd98e662d.js
-* pass/050a006ae573e260.js
 * pass/051696d4c46ad99b.js
 * pass/053480e541f54faf.js
 * pass/05b9c5f007cbaa56.js
@@ -413,7 +443,6 @@ THE SOFTWARE."
 * pass/2b83dea123ed2e2e.js
 * pass/2b9d4a632590814a.js
 * pass/2bdb271c1ff34f35.js
-* pass/2c0f785914da9d0b.js
 * pass/2c16af589c5c8535.js
 * pass/2cdf798a24c241e3.js
 * pass/2d3273e0386e9cb8.js
@@ -519,7 +548,6 @@ THE SOFTWARE."
 * pass/56debc26cbc2e077.js
 * pass/56ec311ffc030121.module.js
 * pass/5727b1080ddcd68e.js
-* pass/574ea84fc61bdc31.js
 * pass/578ebe526f02ab34.js
 * pass/57971b49e239c0ff.js
 * pass/587400d1c019785a.js
@@ -558,7 +586,6 @@ THE SOFTWARE."
 * pass/6b68aefbfbf0beb9.js
 * pass/6b86b273ff34fce1.js
 * pass/6c42024bfadac21f.js
-* pass/6c4fe38464c16309.js
 * pass/6d1bf4c3db76b489.js
 * pass/6d707802519c7158.js
 * pass/6d981ff8b6a3faec.js
@@ -622,7 +649,6 @@ THE SOFTWARE."
 * pass/84b2a5d834daee2f.js
 * pass/8543b43f3c48c975.module.js
 * pass/858d6a756ff641f3.js
-* pass/8643da76fe7e95c7.js
 * pass/8664d1a4e7a73078.js
 * pass/86a25a2a0e393ed6.js
 * pass/86f68610fcefaeae.js
@@ -842,7 +868,6 @@ THE SOFTWARE."
 * pass/dfa22e3eac3cd26e.js
 * pass/e0204155218e1d42.js
 * pass/e0b98eaceaaeaf9b.js
-* pass/e0c3d30b6fe96812.js
 * pass/e1237566c1f89d8e.js
 * pass/e1387fe892984e2b.js
 * pass/e1d373aa5d926fde.module.js
