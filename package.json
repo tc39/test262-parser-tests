@@ -1,6 +1,6 @@
 {
   "name": "test262-parser-tests",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Test cases for ECMAScript parsers",
   "files": [
     "early/",
